@@ -1,0 +1,5 @@
+-t : vérification du mot de pass introduit
+-h : pour afficher le help détaillé d'un fichier texte
+-g : pour afficher un menu textuel et gérer les fonctionnalité de facon graphique (Utilisation de YAD)
+-v : pour afficher le nom des auteurs et version du code
+-m : Pour afficher un menu textuel

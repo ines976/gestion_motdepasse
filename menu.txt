@@ -1,0 +1,4 @@
+-t : password
+-g : menu graphique
+-v : les auteurs
+-h : help 
