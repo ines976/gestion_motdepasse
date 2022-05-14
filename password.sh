@@ -11,7 +11,7 @@ do
 		cat menu.txt
 		;;
 	v)
-		echo " Les auteurs sont : Rayan lahmar & Mohamed Houssem Rejeb /n"
+		echo " Les auteurs sont : MEJRI Sami/n"
 		#cat password.sh
 		;;
        g)
@@ -23,4 +23,4 @@ do
   esac
 done
 echo 
-echo "Good bye!"
+echo "Goodbye!"
